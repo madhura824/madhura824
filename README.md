@@ -42,7 +42,10 @@ Hi, I’m Madhura — a computer science engineer who enjoys building things on 
 
 - 🟢 **GeeksforGeeks**
   - 🏆 Coding Score: **870+**  
-  - 🧩 Solved **270+ Problems**  
-  - 🔁 **222 submissions** in the past year  
+  - 🧩 Solved **270+ Problems**
+ 
+- 🟠 **LeetCode**
+  - 🧩 Solved **260+ Problems**
+  - 🔁 **222 submissions in the past year**
   - 💻 Primary Language: **C++**
 
